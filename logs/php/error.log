@@ -1,0 +1,81 @@
+[26-Nov-2025 19:03:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wc_get_page_id() in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\themes\Site\front-page.php:61
+Stack trace:
+#0 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\yasmi\\...')
+#2 C:\Users\yasmi\Local Sites\projetwordpress\app\public\index.php(17): require('C:\\Users\\yasmi\\...')
+#3 {main}
+  thrown in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\themes\Site\front-page.php on line 61
+[26-Nov-2025 19:03:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wc_get_page_id() in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\themes\Site\front-page.php:61
+Stack trace:
+#0 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\yasmi\\...')
+#2 C:\Users\yasmi\Local Sites\projetwordpress\app\public\index.php(17): require('C:\\Users\\yasmi\\...')
+#3 {main}
+  thrown in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\themes\Site\front-page.php on line 61
+[26-Nov-2025 19:04:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wc_get_page_id() in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\themes\Site\front-page.php:61
+Stack trace:
+#0 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\yasmi\\...')
+#2 C:\Users\yasmi\Local Sites\projetwordpress\app\public\index.php(17): require('C:\\Users\\yasmi\\...')
+#3 {main}
+  thrown in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\themes\Site\front-page.php on line 61
+[26-Nov-2025 19:05:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wc_get_page_id() in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\themes\Site\front-page.php:61
+Stack trace:
+#0 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\yasmi\\...')
+#2 C:\Users\yasmi\Local Sites\projetwordpress\app\public\index.php(17): require('C:\\Users\\yasmi\\...')
+#3 {main}
+  thrown in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\themes\Site\front-page.php on line 61
+[26-Nov-2025 19:05:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wc_get_page_id() in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\themes\Site\front-page.php:61
+Stack trace:
+#0 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\yasmi\\...')
+#2 C:\Users\yasmi\Local Sites\projetwordpress\app\public\index.php(17): require('C:\\Users\\yasmi\\...')
+#3 {main}
+  thrown in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\themes\Site\front-page.php on line 61
+[26-Nov-2025 19:07:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wc_get_page_id() in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\themes\Site\front-page.php:61
+Stack trace:
+#0 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\yasmi\\...')
+#2 C:\Users\yasmi\Local Sites\projetwordpress\app\public\index.php(17): require('C:\\Users\\yasmi\\...')
+#3 {main}
+  thrown in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\themes\Site\front-page.php on line 61
+[26-Nov-2025 19:07:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wc_get_page_id() in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\themes\Site\front-page.php:61
+Stack trace:
+#0 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\yasmi\\...')
+#2 C:\Users\yasmi\Local Sites\projetwordpress\app\public\index.php(17): require('C:\\Users\\yasmi\\...')
+#3 {main}
+  thrown in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\themes\Site\front-page.php on line 61
+[26-Nov-2025 19:08:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wc_get_page_id() in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\themes\Site\front-page.php:61
+Stack trace:
+#0 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\yasmi\\...')
+#2 C:\Users\yasmi\Local Sites\projetwordpress\app\public\index.php(17): require('C:\\Users\\yasmi\\...')
+#3 {main}
+  thrown in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\themes\Site\front-page.php on line 61
+[26-Nov-2025 19:18:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\functions.php on line 2290
+[26-Nov-2025 19:18:33 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\functions.php:2301
+Stack trace:
+#0 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\functions.php(2301): fopen('', 'a')
+#1 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\functions.php(2267): win_is_writable(false)
+#2 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\plugins\woocommerce\src\Internal\Admin\Logging\FileV2\FileController.php(661): wp_is_writable(false)
+#3 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\plugins\woocommerce\src\Utilities\LoggingUtil.php(103): Automattic\WooCommerce\Internal\Admin\Logging\FileV2\FileController->get_log_directory_size()
+#4 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-system-status-v2-controller.php(1651): Automattic\WooCommerce\Utilities\LoggingUtil::get_log_directory_size()
+#5 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-system-status-v2-controller.php(865): WC_REST_System_Status_V2_Controller->get_logging_info()
+#6 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-system-status-v2-controller.php(118): WC_REST_System_Status_V2_Controller->get_item_mappings_per_fields(Array)
+#7 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\rest-api\class-wp-rest-server.php(1292): WC_REST_System_Status_V2_Controller->get_items(Object(WP_REST_Request))
+#8 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\rest-api\class-wp-rest-server.php(1125): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc/v3/system_s...', Array, NULL)
+#9 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\rest-api.php(586): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#10 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\plugins\woocommerce\src\Utilities\RestApiUtil.php(25): rest_do_request(Object(WP_REST_Request))
+#11 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\plugins\woocommerce\includes\admin\views\html-admin-page-status-report.php(16): Automattic\WooCommerce\Utilities\RestApiUtil->get_endpoint_data('/wc/v3/system_s...')
+#12 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-status.php(41): include_once('C:\\Users\\yasmi\\...')
+#13 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\plugins\woocommerce\includes\admin\views\html-admin-page-status.php(43): WC_Admin_Status::status_report()
+#14 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-status.php(29): include_once('C:\\Users\\yasmi\\...')
+#15 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-menus.php(373): WC_Admin_Status::output()
+#16 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\class-wp-hook.php(324): WC_Admin_Menus->status_page('')
+#17 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#18 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#19 C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-admin\admin.php(260): do_action('woocommerce_pag...')
+#20 {main}
+  thrown in C:\Users\yasmi\Local Sites\projetwordpress\app\public\wp-includes\functions.php on line 2301
