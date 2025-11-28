@@ -24,7 +24,7 @@
             ?>
         </nav>
 
-        <!-- Lien panier dans le header (optionnel) -->
+        <!-- Lien panier dans le header  -->
         <?php if (function_exists('WC')) : ?>
             <div class="header-cart">
                 <a href="<?php echo wc_get_cart_url(); ?>" class="cart-link">

@@ -91,7 +91,7 @@ add_action('init', 'fle_register_type_recette_taxonomy'); // Hook pour initialis
 function fle_custom_add_to_cart_text($text) {
     // Si on est sur une page produit WooCommerce
     if (is_product()) {
-        return '🛒 Ajouter à mon panier'; // Texte personnalisé
+        return 'Ajouter à mon panier'; // Texte personnalisé
     }
     return $text; // sinon garde le texte original
 }

@@ -15,7 +15,6 @@ add_action( 'after_setup_theme', 'fruit_legume_setup' );
 
 function fruit_legume_assets() {
     wp_enqueue_style( 'fruit-legume-style', get_stylesheet_uri() );
-    wp_enqueue_script( 'fruit-legume-script', get_template_directory_uri() . '/assets/js/main.js', [], false, true );
 
     if ( class_exists( 'WooCommerce' ) ) {
         wp_enqueue_script( 'wc-cart-fragments' );
