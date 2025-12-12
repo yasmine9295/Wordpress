@@ -1,11 +1,13 @@
 <?php
 defined( 'ABSPATH' ) || exit; 
 
+// Active les fonctionnalités
 function fruit_legume_setup() {
-    add_theme_support( 'post-thumbnails' ); 
-    add_theme_support( 'title-tag' );       
-    add_theme_support( 'woocommerce' );     
+    add_theme_support( 'post-thumbnails' );  // Utilise images à la une de mes CPT (visuels)
+    add_theme_support( 'title-tag' );     // titre automatique
+    add_theme_support( 'woocommerce' );     // Reconnaisse le thème comme compatible
 
+    // Déclare emplacements
     register_nav_menus([
         'menu-principal' => 'Menu Principal',
         'footer-menu'    => 'Menu Pied de page',
